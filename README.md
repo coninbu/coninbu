@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coninbu
 - 👀 I’m interested in python software development
 - 🌱 I’m currently learning python
-- 📫 How to reach me https://github.com/me50/coninbu.git
+- 📫 How to reach me benjaminiguta@gmail.com
 
 
 <!---
